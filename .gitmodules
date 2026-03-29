@@ -1,0 +1,6 @@
+[submodule "charts"]
+	path = helm-charts
+	url = https://github.com/mrglos/task-1-helm-charts.git
+[submodule "gitops"]
+	path = gitops-config
+	url = https://github.com/mrglos/task-1-gitops-config.git
